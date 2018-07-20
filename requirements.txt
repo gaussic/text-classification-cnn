@@ -1,3 +1,4 @@
 scikit-learn
 scipy
+tensorflow
 numpy
